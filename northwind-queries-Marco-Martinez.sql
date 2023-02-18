@@ -5,6 +5,7 @@ Netflix Pathways Advanced Java Bootcamp
 Module 5 Challenge: Northwind Database SQL Queries
 */
 
+use northwind;
 
 -- What are the categories of products in the database?
 
